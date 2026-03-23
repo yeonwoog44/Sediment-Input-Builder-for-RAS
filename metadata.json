@@ -1,5 +1,0 @@
-{
-  "name": "Riverbed Analysis & HEC-RAS Tool",
-  "description": "하상재료 시험결과 및 HEC-RAS 유량별 등류결과를 바탕으로 하상변동 분석 및 HEC-RAS 입력자료를 생성하는 도구",
-  "requestFramePermissions": []
-}
